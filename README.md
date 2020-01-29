@@ -1,11 +1,10 @@
 This is a pratice project of Intro. to Network Programming, using select fuction to implement a multiple clients Chat Room.
         ========================================================================================================
-Recommended: If you are a student who is taking this subject, please solve it on yourself first, before moving on to the solution.
-        --------------------------------------------------------------------------------------------------------
-
+***Recommended: If you are a student who is taking this subject, please solve it on yourself first, before moving on to the solution.***
+        
 ./make all
 Compile server and client programs
-./server <SERVER PORT> 
+./server <SERVER PORT>
 To run the server on specific port
 ./client <SERVER IP> <SERVER PORT>
 To run the client on specific port and ip addrese <!using '127.0.0.1' to connect to local host>
