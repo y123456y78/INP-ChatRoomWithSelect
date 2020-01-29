@@ -2,12 +2,12 @@ This is a pratice project of Intro. to Network Programming.
 
 ***Recommended: If you are taking this subject, please solve it on yourself first.***
         
-./make all. 
-'Compile server and client programs'. 
-./server <SERVER PORT>
-To run the server on specific port
+./make all  
+`Compile server and client programs`   
+./server <SERVER PORT>  
+`To run the server on specific port`  
 ./client <SERVER IP> <SERVER PORT>
-To run the client on specific port and ip addrese <!using '127.0.0.1' to connect to local host>
+`To run the client on specific port and ip addrese <!using '127.0.0.1' to connect to local host>`  
 
 The clients can send and get several types command to the server illustrated below.
 Hello Message
