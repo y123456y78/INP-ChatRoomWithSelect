@@ -1,6 +1,6 @@
 This is a pratice project of Intro. to Network Programming.
 ====================================
-***Recommended: If you are taking this subject, please solve it on yourself first.***
+***Recommendation: If you are taking this course, please solve it on yourself first.***
         
 ./make all  
 `Compile server and client programs`   
